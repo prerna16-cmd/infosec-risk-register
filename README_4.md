@@ -3,23 +3,6 @@
 > **Mock Project** · ISO 31000 / NIST RMF · Cloud Startup (10 employees)
 
 A fully-documented enterprise risk register built for a fictional 10-person SaaS startup called **NimbusTech Solutions**. Demonstrates core risk management skills including likelihood/impact scoring, heat-map visualisation, residual-risk tracking, and executive reporting — aligned to **ISO 31000** and the **NIST Risk Management Framework (RMF)**.
-
----
-
-## 📁 Repository Structure
-
-```
-risk-register/
-├── NimbusTech_Risk_Register.xlsx   # Main deliverable — 3-tab workbook
-├── Risk_Summary_Report.md          # Half-page executive summary (Top 3 risks)
-├── build_register.py               # Python script that generates the workbook
-├── README.md                       # This file
-└── screenshots/
-    ├── risk_register_tab.png
-    ├── heat_map_tab.png
-    └── dashboard_tab.png
-```
-
 ---
 
 ## 📊 Workbook Overview
@@ -78,25 +61,8 @@ Each cell that contains an active risk is labelled with the corresponding Risk I
 
 ---
 
-## 🛠️ How to Regenerate the Workbook
 
-```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/nimbus-risk-register.git
-cd nimbus-risk-register
-
-# Install dependencies
-pip install openpyxl
-
-# Build the workbook
-python build_register.py
-```
-
-> **Note:** The `scripts/recalc.py` helper uses LibreOffice to recalculate all Excel formulas after generation. Install LibreOffice (`sudo apt install libreoffice`) if you want to use it.
-
----
-
-## 📋 Frameworks Referenced
+## Frameworks Referenced
 
 | Framework | Application |
 |---|---|
@@ -105,18 +71,3 @@ python build_register.py
 | **NIST CSF 2.0** | Govern · Identify · Protect · Detect · Respond · Recover |
 | **CIS Controls v8** | Specific technical mitigations (patching SLAs, MFA, logging) |
 
----
-
-## 💼 Resume Bullet
-
-```
-Built enterprise information-security risk register for mock 10-person SaaS startup;
-identified 12 risks across 6 categories, scored by ISO 31000 likelihood/impact matrix,
-created 5×5 heat map with conditional formatting, tracked residual risk and review
-cadence, and produced executive risk summary aligned to NIST RMF.
-```
-
----
-
-## 📄 License
-MIT — free to adapt for portfolio, coursework, or interview prep.
