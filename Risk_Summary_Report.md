@@ -49,7 +49,7 @@ A malicious external actor exploits a vulnerability in NimbusTech's application 
 Employees reusing passwords across personal and corporate accounts, or using weak passwords that are susceptible to brute-force or credential-stuffing attacks. With ten employees having access to production systems, cloud consoles, and customer data, a single compromised account can provide a threat actor with a lateral movement foothold across the entire environment.
 
 **Recommended Actions:**
-1. **Immediate (0–14 days):** Enforce Multi-Factor Authentication (MFA) on all corporate accounts — cloud console, GitHub, GSuite, Slack, and any SaaS tools with production data access. Zero exceptions.
+1. **Immediate (0–14 days):** Enforce Multi-Factor Authentication (MFA) on all corporate accounts like cloud console, GitHub, GSuite, Slack, and any SaaS tools with production data access. Zero exceptions.
 2. **Short-term (14–30 days):** Deploy a company-wide password manager (e.g., 1Password Teams or Bitwarden Business); enforce a minimum password policy of 16 characters and uniqueness across services.
 3. **Short-term (30–60 days):** Integrate SSO (e.g., Okta or Google Workspace SSO) for all internal tools to centralise access control and simplify off-boarding.
 
