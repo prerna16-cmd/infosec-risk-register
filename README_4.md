@@ -2,7 +2,7 @@
 
 > **Mock Project** · ISO 31000 / NIST RMF · Cloud Startup (10 employees)
 
-A fully-documented enterprise risk register built for a fictional 10-person SaaS startup called **NimbusTech Solutions**. Demonstrates core risk management skills including likelihood/impact scoring, heat-map visualisation, residual-risk tracking, and executive reporting — aligned to **ISO 31000** and the **NIST Risk Management Framework (RMF)**.
+A fully-documented enterprise risk register built for a fictional 10-person SaaS startup called **NimbusTech Solutions**. Demonstrates core risk management skills including likelihood/impact scoring, heat-map visualisation, residual-risk tracking, and executive reporting, aligned to **ISO 31000** and the **NIST Risk Management Framework (RMF)**.
 ---
 
 ## 📊 Workbook Overview
