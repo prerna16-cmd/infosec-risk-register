@@ -91,7 +91,7 @@ A threat actor sends a convincing phishing email targeting one or more NimbusTec
 
 ## Next Review
 
-This risk register will be reviewed quarterly. The next scheduled review is **June 30, 2025**. Risk owners are accountable for reporting control implementation status to the CTO at each monthly all-hands meeting.
+This risk register will be reviewed quarterly. The next scheduled review is **DD/MM/YYYY**. Risk owners are accountable for reporting control implementation status to the CTO at each monthly all-hands meeting.
 
 ---
 
